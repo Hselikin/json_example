@@ -14,10 +14,10 @@
   ],
   "links": [
     {"source": "Napoleon", "target": "Myriel", "value": 1},
-    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
-    {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
-    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
-    {"source": "CountessdeLo", "target": "Myriel", "value": 1},
+    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 1},
+    {"source": "Mme.Magloire", "target": "Myriel", "value": 1},
+    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 2},
+    {"source": "CountessdeLo", "target": "Myriel", "value": 2},
     {"source": "Geborand", "target": "Myriel", "value": 1},
     {"source": "Champtercier", "target": "Myriel", "value": 1}
   ]
